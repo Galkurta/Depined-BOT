@@ -26,7 +26,7 @@ Before using this tool, you need to register on the Depined platform:
 2. Use the following referral code during registration:
 
 ```
-KG4VDgkJft7S
+Vg4EnmlTbEl3
 ```
 
 **Important Note**: This referral code has a usage limit of 5 people. If you're unable to use it, it means the maximum limit has been reached.
