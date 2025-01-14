@@ -91,6 +91,7 @@ This tool is for educational purposes only. Use it responsibly and in accordance
 
 For support, you can reach out through:
 
+- GitHub Issues
 - Telegram: https://t.me/galkurtarchive
 
 ## License
